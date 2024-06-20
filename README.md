@@ -32,6 +32,21 @@ This strategy utilizes the implied volatility derived from call options. Implied
 
 ## Backtesting and Validation
 
+### In-Sample Testing Results
+
+1.Tail Risk Strategy
+
+<img width="690" alt="Screenshot 2024-06-20 at 17 48 33" src="https://github.com/daksharora01/Inter-IIT-WorldQuant/assets/121610907/ac85e89b-09c3-4d2c-9cc3-0366a2dd5b5f">
+
+2.Size Effect Strategy
+
+<img width="637" alt="Screenshot 2024-06-20 at 17 48 52" src="https://github.com/daksharora01/Inter-IIT-WorldQuant/assets/121610907/deae6cdb-748c-4ec6-8b3d-bb6aeac0dd7d">
+
+3.Call Option Implied Volatility Strategy
+
+<img width="631" alt="Screenshot 2024-06-20 at 17 49 08" src="https://github.com/daksharora01/Inter-IIT-WorldQuant/assets/121610907/5b561ed8-7415-44e4-b9a0-1379593a7a9a">
+
+
 ### Out-of-Sample Testing
 
 The strategies were validated using out-of-sample testing, covering the period from 2021 to 2023. Out-of-sample testing is a method of testing the performance of a trading strategy on data that was not used during the development of the strategy, ensuring the robustness and predictive accuracy of the alphas.
