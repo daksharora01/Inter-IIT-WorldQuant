@@ -55,3 +55,15 @@ The strategies were validated using out-of-sample testing, covering the period f
 
 The backtesting and out-of-sample testing results demonstrated that the developed alphas had strong predictive accuracy and market performance. Detailed results and analysis can be found in the presentation included in this repository.
 
+## Authors
+
+- [Daksh Arora](https://github.com/daksharora01)
+- [Manas Jhawar](https://github.com/Jhawar04manas)
+- [Ayush Dadhich](https://github.com/AyushDadhich07)
+- [Aradhya Jain](https://github.com/aradhyajain25)
+- [Nilesh Singla](https://github.com/s-n-27)
+- [Sanat Nagpal](https://github.com/Sanatnagpal)
+- [Arush Mathur](https://github.com/arushmathur)
+- [Divyanshu Tiwari](https://github.com/divyanshutiwari09)
+- [Vivek Parley](https://github.com/vivekparley)
+- [Shamith Kandregula](https://github.com/shamith20052005)
